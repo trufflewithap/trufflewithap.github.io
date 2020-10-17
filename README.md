@@ -1,1 +1,1 @@
-~Website and Blog~
+Website and Blog
