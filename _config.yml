@@ -1,12 +1,13 @@
 title: Prafulla Dhariwal
 description: Blog
 author: "Prafulla Dhariwal"
+email: prafullasd@gmail.com
 
 theme: minima
 
 # Minima social links
+scholar_username: 0pOgVVAAAAAJ
 twitter_username: prafdhar
-github_username: prafullasd
 linkedin_username: prafulladhariwal
 
 # Minima: show excerpts in the frontpage
