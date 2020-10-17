@@ -8,3 +8,17 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: #383838;
 }
+
+.footer-col-2 { width: -webkit-calc(35% - (30px / 2)); width: calc(35% - (30px / 2)); }
+
+.footer-col-3 { width: -webkit-calc(30% - (30px / 2)); width: calc(30% - (30px / 2)); }
+
+.home {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.profile {
+    border-radius: 50%;
+    max-width: 200px;
+}
