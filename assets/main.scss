@@ -31,3 +31,20 @@ body {
 }
 
 .svg-icon { width: 18px; height: 18px; display: inline-block; fill: #828282; padding-left: 8px; padding-right: 8px; vertical-align: text-top; }
+
+// .media-table {
+//     display: block;
+//     overflow-x: auto;
+//     white-space: nowrap;
+// }
+
+.iframely-embed {
+    padding-bottom: 8px;
+}
+
+.media {
+    padding-bottom: 8px;
+}
+
+.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; margin-left: -4px;}
+@media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
