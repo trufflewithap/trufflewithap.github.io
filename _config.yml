@@ -1,5 +1,5 @@
 title: Prafulla Dhariwal
-description: Blog
+description: Personal Website and Blog
 author: "Prafulla Dhariwal"
 email: prafullasd@gmail.com
 
@@ -34,3 +34,4 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
