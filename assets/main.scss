@@ -48,3 +48,5 @@ body {
 
 .post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; margin-left: -4px;}
 @media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
+
+.media-scroll {max-height: 36vh; overflow-y: scroll; display: block;}
