@@ -50,3 +50,26 @@ body {
 @media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
 
 .media-scroll {max-height: 36vh; overflow-y: scroll; display: block;}
+
+.publications-cover {
+    padding: 0%; vertical-align: middle; width:20%; background-size: 100% auto; background-position: center; background-repeat: no-repeat;
+}
+
+.publications-content {
+    font-size: 14px;
+    text-overflow: ellipsis;
+}
+
+.publications-table {
+    border: none;
+}
+.publications-table td {
+    border: none;
+    max-height: 120px;
+    vertical-align: top;
+    padding-top: 0px;
+}
+
+@media screen and (max-width: 800px) { .publications-cover { width: 30%; } }
+@media screen and (max-width: 800px) { .publications-content { font-size: 10px; } }
+@media screen and (max-width: 800px) { .publications-table { margin-bottom: 0px;} }
