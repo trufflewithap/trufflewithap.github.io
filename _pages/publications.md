@@ -20,7 +20,7 @@ title: Publications
 
 <table class="publications-table"><tr>
 <td class="publications-cover">
-<div><video autoplay muted loop playsinline style="left: 0; width: 100%; position: relative;">
+<div><video autoplay muted loop playsinline style="left: 0; width: 100%; position: relative; display: block;">
   <source src="https://cdn.openai.com/research-covers/glow/videos/both_loop_new.mp4" type="video/mp4">
 </video></div>
 </td>
@@ -51,7 +51,7 @@ International Conference on Learning Representations (ICLR), 2017
 # Unsupervised Learning
 <table class="publications-table"><tr>
 <td class="publications-cover">
-<video autoplay muted loop playsinline style="left: 0; width: 100%; position: relative;">
+<video autoplay muted loop playsinline style="left: 0; width: 100%; position: relative; display: block;">
   <source src="https://cdn.openai.com/research-covers/better-language-models/2x-no-mark-animated.mp4" type="video/mp4">
 </video>
 </td>
@@ -67,7 +67,7 @@ Neural Information Processing Systems (NeurIPS), 2020
 
 <table class="publications-table"><tr>
 <td class="publications-cover">
-<video autoplay muted loop playsinline style="left: 0; width: 100%; position: relative;">
+<video autoplay muted loop playsinline style="left: 0; width: 100%; position: relative; display: block;">
   <source src="https://cdn.openai.com/research-covers/image-gpt/2x-no-mark-animated.mp4" type="video/mp4">
 </video>
 </td>
@@ -99,7 +99,7 @@ International Conference on Learning Representations (ICLR), 2019
 # Reinforcement Learning
 <table class="publications-table"><tr>
 <td class="publications-cover">
-<video autoplay muted loop playsinline style="left: 0; width: 100%; position: relative;">
+<video autoplay muted loop playsinline style="left: 0; width: 100%; position: relative; display: block;">
   <source src="https://cdn.openai.com/openai-baselines-ppo/flagrun-keyboard-control.mp4" type="video/mp4">
 </video>
 </td>
@@ -114,7 +114,7 @@ John Schulman, Filip Wolski, **Prafulla Dhariwal**, Alec Radford, Oleg Klimov
   
 <table class="publications-table"><tr>
 <td class="publications-cover">
-<video autoplay muted loop playsinline style="left: 0; width: 100%; position: relative;">
+<video autoplay muted loop playsinline style="left: 0; width: 100%; position: relative; display: block;">
   <source src="https://cdn.openai.com/parameter_noise/param_cheetah_2.mp4" type="video/mp4">
 </video>
 </td>

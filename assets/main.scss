@@ -63,11 +63,15 @@ body {
 .publications-table {
     border: none;
 }
+.publications-table p {
+    margin-bottom: 0px;
+}
+
 .publications-table td {
     border: none;
-    max-height: 120px;
     vertical-align: top;
     padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 .page-content {
@@ -76,4 +80,4 @@ body {
 
 @media screen and (max-width: 800px) { .publications-cover { width: 30%; } }
 @media screen and (max-width: 800px) { .publications-content { font-size: 10px; } }
-@media screen and (max-width: 800px) { .publications-table { margin-bottom: 0px;} }
+@media screen and (max-width: 800px) { .publications-table { margin-bottom: 20px;} }
