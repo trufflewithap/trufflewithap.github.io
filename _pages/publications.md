@@ -84,7 +84,7 @@ Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, **Prafulla Dhariwal**
 # Theorem Proving
 <table class="publications-table"><tr>
 <td class="publications-cover">
-<img src="assets/imgs/publications/gamepad.png">
+<img src="assets/imgs/publications/gamepad_v2.png">
 </td>
 <td markdown="1">
 **[Gamepad: A Learning Environment for Theorem Proving](https://arxiv.org/abs/1806.00608)**
