@@ -21,7 +21,7 @@ title: Publications
 <table class="publications-table"><tr>
 <td class="publications-cover">
 <div><video autoplay muted loop playsinline style="left: 0; width: 100%; position: relative; display: block;">
-  <source src="https://cdn.openai.com/research-covers/glow/videos/both_loop_new.mp4" type="video/mp4">
+  <source src="https://cdn.openai.com/research-covers/glow/videos/prafulla_people_loop.mp4" type="video/mp4">
 </video></div>
 </td>
 <td markdown="1">
