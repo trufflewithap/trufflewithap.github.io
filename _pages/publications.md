@@ -29,7 +29,7 @@ title: Publications
 <span class="publications-content">  
 [[Paper]](https://arxiv.org/abs/1807.03039) [[Code]](https://github.com/openai/glow) [[Blog]](https://openai.com/blog/glow) [[Talk]](https://slideslive.com/38917897/glow-generative-flow-with-invertible-1x1-convolutions)  
 Durk P Kingma\*, **Prafulla Dhariwal\***  
-Neural Information Processing Systems (NeurIPS), 2018
+*Neural Information Processing Systems (NeurIPS), 2018*
 </span>
 </td>
 </tr></table>
@@ -43,7 +43,7 @@ Neural Information Processing Systems (NeurIPS), 2018
 <span class="publications-content">
 [[Paper]](https://arxiv.org/abs/1611.02731)  
 Xi Chen, Diederik P Kingma, Tim Salimans, Yan Duan, **Prafulla Dhariwal**, John Schulman, Ilya Sutskever, Pieter Abbeel   
-International Conference on Learning Representations (ICLR), 2017
+*International Conference on Learning Representations (ICLR), 2017*
 </span>
 </td>
 </tr></table>
@@ -60,7 +60,7 @@ International Conference on Learning Representations (ICLR), 2017
 <span class="publications-content">
 [[Paper]](https://arxiv.org/abs/2005.14165) [[Code]](https://openai.com/blog/openai-api/)  
 Tom B Brown\*, Benjamin Mann\*, Nick Ryder\*, Melanie Subbiah\*, Jared Kaplan, **Prafulla Dhariwal**, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei  
-Neural Information Processing Systems (NeurIPS), 2020
+*Neural Information Processing Systems (NeurIPS), 2020*
 </span>
 </td>
 </tr></table>
@@ -76,7 +76,7 @@ Neural Information Processing Systems (NeurIPS), 2020
 <span class="publications-content">  
 [[Paper]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[Code]](https://github.com/openai/image-gpt) [[Blog]](https://openai.com/blog/image-gpt/)  
 Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, **Prafulla Dhariwal**, David Luan, Ilya Sutskever  
-International Conference on Machine Learning (ICML), 2020
+*International Conference on Machine Learning (ICML), 2020*
 </span>
 </td>
 </tr></table>
@@ -91,7 +91,7 @@ International Conference on Machine Learning (ICML), 2020
 <span class="publications-content">  
 [[Paper]](https://arxiv.org/abs/1806.00608) [[Code]](https://github.com/ml4tp/gamepad)  
 Daniel Huang\*, **Prafulla Dhariwal\***, Dawn Song, Ilya Sutskever  
-International Conference on Learning Representations (ICLR), 2019
+*International Conference on Learning Representations (ICLR), 2019*
 </span>
 </td>
 </tr></table>
@@ -123,7 +123,7 @@ John Schulman, Filip Wolski, **Prafulla Dhariwal**, Alec Radford, Oleg Klimov
 <span class="publications-content">
 [[Paper]](https://arxiv.org/abs/1706.01905) [[Code]](https://github.com/openai/baselines) [[Blog]](https://openai.com/blog/better-exploration-with-parameter-noise/) [[Talk]](https://drive.google.com/file/d/1WeEzSam-AwrH0i-POLxfaE0SCA4Amq_9/view)  
 Matthias Plappert, Rein Houthooft, **Prafulla Dhariwal**, Szymon Sidor, Richard Y Chen, Xi Chen, Tamim Asfour, Pieter Abbeel, Marcin Andrychowicz  
-International Conference on Learning Representations (ICLR), 2018
+*International Conference on Learning Representations (ICLR), 2018*
 </span>
 </td>
 </tr></table>
