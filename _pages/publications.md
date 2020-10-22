@@ -10,7 +10,7 @@ title: Publications
 <img src="https://cdn.openai.com/research-covers/jukebox/2x-no-mark.jpg">
 </td>
 <td markdown="1">
-**[Jukebox: A generative model for music](https://openai.com/blog/jukebox/)**  
+**[Jukebox: A Generative Model for Music](https://openai.com/blog/jukebox/)**  
 <span class="publications-content">
 [[Paper]](https://arxiv.org/abs/2005.00341) [[Code]](https://github.com/openai/jukebox) [[Blog]](https://openai.com/blog/jukebox/) [[Talk]](https://www.youtube.com/watch?v=Jlb1IQ9ooxw)  
 **Prafulla Dhariwal\***, Heewoo Jun\*, Christine Payne\*, Jong Wook Kim, Alec Radford, Ilya Sutskever
@@ -25,7 +25,7 @@ title: Publications
 </video></div>
 </td>
 <td markdown="1">
-**[Glow: Generative flow with invertible 1x1 convolutions](https://openai.com/blog/glow)**
+**[Glow: Generative Flow with Invertible 1x1 Convolutions](https://openai.com/blog/glow)**
 <span class="publications-content">  
 [[Paper]](https://arxiv.org/abs/1807.03039) [[Code]](https://github.com/openai/glow) [[Blog]](https://openai.com/blog/glow) [[Talk]](https://slideslive.com/38917897/glow-generative-flow-with-invertible-1x1-convolutions)  
 Durk P Kingma\*, **Prafulla Dhariwal\***  
@@ -39,7 +39,7 @@ Neural Information Processing Systems (NeurIPS), 2018
 <img src="assets/imgs/publications/vlae.jpeg">
 </td>
 <td markdown="1">
-**[Variational lossy autoencoder](https://arxiv.org/abs/1611.02731)**  
+**[Variational Lossy Autoencoder](https://arxiv.org/abs/1611.02731)**  
 <span class="publications-content">
 [[Paper]](https://arxiv.org/abs/1611.02731)  
 Xi Chen, Diederik P Kingma, Tim Salimans, Yan Duan, **Prafulla Dhariwal**, John Schulman, Ilya Sutskever, Pieter Abbeel   
@@ -56,7 +56,7 @@ International Conference on Learning Representations (ICLR), 2017
 </video>
 </td>
 <td markdown="1">
-**[Language models are few-shot learners](https://arxiv.org/abs/2005.14165)**  
+**[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)**  
 <span class="publications-content">
 [[Paper]](https://arxiv.org/abs/2005.14165) [[Code]](https://openai.com/blog/openai-api/)  
 Tom B Brown\*, Benjamin Mann\*, Nick Ryder\*, Melanie Subbiah\*, Jared Kaplan, **Prafulla Dhariwal**, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei  
@@ -87,7 +87,7 @@ International Conference on Machine Learning (ICML), 2020
 <img src="assets/imgs/publications/gamepad.png">
 </td>
 <td markdown="1">
-**[Gamepad: A learning environment for theorem proving](https://arxiv.org/abs/1806.00608)**
+**[Gamepad: A Learning Environment for Theorem Proving](https://arxiv.org/abs/1806.00608)**
 <span class="publications-content">  
 [[Paper]](https://arxiv.org/abs/1806.00608) [[Code]](https://github.com/ml4tp/gamepad)  
 Daniel Huang\*, **Prafulla Dhariwal\***, Dawn Song, Ilya Sutskever  
@@ -104,7 +104,7 @@ International Conference on Learning Representations (ICLR), 2019
 </video>
 </td>
 <td markdown="1">
-**[Proximal policy optimization algorithms](https://openai.com/blog/openai-baselines-ppo/)**
+**[Proximal Policy Optimization Algorithms](https://openai.com/blog/openai-baselines-ppo/)**
 <span class="publications-content">  
 [[Paper]](https://arxiv.org/abs/1707.06347) [[Code]](https://github.com/openai/baselines) [[Blog]](https://openai.com/blog/openai-baselines-ppo/)  
 John Schulman, Filip Wolski, **Prafulla Dhariwal**, Alec Radford, Oleg Klimov
@@ -119,7 +119,7 @@ John Schulman, Filip Wolski, **Prafulla Dhariwal**, Alec Radford, Oleg Klimov
 </video>
 </td>
 <td markdown="1">
-**[Parameter space noise for exploration](https://openai.com/blog/better-exploration-with-parameter-noise/)**  
+**[Parameter Space Noise for Exploration](https://openai.com/blog/better-exploration-with-parameter-noise/)**  
 <span class="publications-content">
 [[Paper]](https://arxiv.org/abs/1706.01905) [[Code]](https://github.com/openai/baselines) [[Blog]](https://openai.com/blog/better-exploration-with-parameter-noise/) [[Talk]](https://drive.google.com/file/d/1WeEzSam-AwrH0i-POLxfaE0SCA4Amq_9/view)  
 Matthias Plappert, Rein Houthooft, **Prafulla Dhariwal**, Szymon Sidor, Richard Y Chen, Xi Chen, Tamim Asfour, Pieter Abbeel, Marcin Andrychowicz  
