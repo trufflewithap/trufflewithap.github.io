@@ -1,10 +1,12 @@
----
+<!-- ---
 permalink: /publications
 layout: page
 title: Publications
----
+--- -->
 
-# Generative Models
+# Publications
+
+## Generative Models
 <table class="publications-table"><tr>
 <td class="publications-cover">
 <img src="https://cdn.openai.com/research-covers/jukebox/2x-no-mark.jpg">
@@ -48,7 +50,7 @@ Xi Chen, Diederik P Kingma, Tim Salimans, Yan Duan, **Prafulla Dhariwal**, John 
 </td>
 </tr></table>
 
-# Unsupervised Learning
+## Unsupervised Learning
 <table class="publications-table"><tr>
 <td class="publications-cover">
 <video autoplay muted loop playsinline disableRemotePlayback style="left: 0; width: 100%; position: relative; display: block;">
@@ -81,7 +83,7 @@ Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, **Prafulla Dhariwal**
 </td>
 </tr></table>
 
-# Scaling Laws
+## Scaling Laws
 <table class="publications-table"><tr>
 <td class="publications-cover">
 <img src="assets/imgs/publications/scaling.png">
@@ -96,7 +98,7 @@ Tom Henighan, Jared Kaplan, Mor Katz, Mark Chen, Christopher Hesse, Jacob Jackso
 </tr></table>
 
 
-# Theorem Proving
+## Theorem Proving
 <table class="publications-table"><tr>
 <td class="publications-cover">
 <img src="assets/imgs/publications/gamepad_v2.png">
@@ -111,7 +113,7 @@ Daniel Huang\*, **Prafulla Dhariwal\***, Dawn Song, Ilya Sutskever
 </td>
 </tr></table>
 
-# Reinforcement Learning
+## Reinforcement Learning
 <table class="publications-table"><tr>
 <td class="publications-cover">
 <video autoplay muted loop playsinline disableRemotePlayback style="left: 0; width: 100%; position: relative; display: block;">
@@ -156,7 +158,7 @@ Matthias Plappert, Rein Houthooft, **Prafulla Dhariwal**, Szymon Sidor, Richard 
 </td>
 </tr></table>
 
-# Quantum Complexity
+## Quantum Complexity
 <table class="publications-table"><tr>
 <td class="publications-cover">
 <img src="assets/imgs/publications/qqc.png">

@@ -52,7 +52,7 @@ body {
 // .media-scroll {overflow-y: scroll; display: block;}
 
 .publications-cover {
-    padding: 0%; vertical-align: middle; width:20%; background-size: 100% auto; background-position: center; background-repeat: no-repeat;
+    padding: 0%; vertical-align: middle; width:22%; background-size: 100% auto; background-position: center; background-repeat: no-repeat;
 }
 
 .publications-content {
@@ -76,9 +76,31 @@ body {
 }
 
 .page-content {
+    padding-top: 30px;
     flex: 0;
 }
 
 @media screen and (max-width: 800px) { .publications-cover { width: 30%; } }
 @media screen and (max-width: 800px) { .publications-content { font-size: 10px; } }
 @media screen and (max-width: 800px) { .publications-table { margin-bottom: 20px;} }
+
+.site-header { 
+    border-top: none; 
+    border-bottom: 1px solid #e8e8e8; 
+    min-height: 55.95px; 
+    position: relative; }
+
+.site-header {
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 100;
+}
+
+.svg-icon {
+    opacity: 70%;
+}
+
+.svg-icon:hover {
+    opacity: 100%;
+}
