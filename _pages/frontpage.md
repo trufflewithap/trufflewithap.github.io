@@ -3,7 +3,7 @@ permalink: /
 layout: home
 list_title: Posts
 ---
-
+<div markdown="1" style="text-align: center">
 <img class="profile" src="assets/imgs/profile.jpg">
 <div style="padding-bottom: 15px">{%- include social.html -%}</div>
 
@@ -11,10 +11,18 @@ I'm a research scientist at [OpenAI][openai] working on generative models and un
 
 [openai]: https://openai.com
 
+</div>
+
 <br id="Publications">
 <br>
+<div markdown="1" style="text-align: center">
+# Publications
+</div>
 {% include_relative publications.md %}
 
 <br id="Media">
 <br>
+<div markdown="1" style="text-align: center">
+# Media
+</div>
 {% include_relative media.md %}

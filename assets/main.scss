@@ -11,7 +11,7 @@ body {
 
 .home {
     margin: 0 auto;
-    text-align: center;
+    // text-align: center;
 }
 
 .footer-home {
@@ -112,3 +112,5 @@ body {
 .svg-icon:focus {
     opacity: 100%;
 }
+
+h1, h2, h3, h4, h5, h6 { margin-bottom: 20px; }

@@ -1,11 +1,3 @@
-<!-- ---
-permalink: /publications
-layout: page
-title: Publications
---- -->
-
-# Publications
-
 ## Generative Models
 <table class="publications-table"><tr>
 <td class="publications-cover">
