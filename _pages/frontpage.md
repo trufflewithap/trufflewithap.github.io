@@ -13,15 +13,13 @@ I'm a research scientist at [OpenAI][openai] working on generative models and un
 
 </div>
 
-<br id="Publications">
-<br>
+<div id="Publications" class="sections"></div>
 <div markdown="1" style="text-align: center">
 # Publications
 </div>
 {% include_relative publications.md %}
 
-<br id="Media">
-<br>
+<div id="Media" class="sections"></div>
 <div markdown="1" style="text-align: center">
 # Media
 </div>
