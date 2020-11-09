@@ -84,7 +84,7 @@ Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, **Prafulla Dhariwal**
 **[Scaling Laws for Autoregressive Generative Modeling](https://arxiv.org/abs/2010.14701)**
 <span class="publications-content">  
 [[Paper]](https://arxiv.org/abs/2010.14701)  
-Tom Henighan, Jared Kaplan, Mor Katz, Mark Chen, Christopher Hesse, Jacob Jackson, Heewoo Jun, Tom B Brown, **Prafulla Dhariwal**, Scott Gray, Chris Hallacy, Benjamin Mann, Alec Radford, Aditya Ramesh, Nick Ryder, Daniel M Ziegler, John Schulman, Dario Amodei, Sam McCandlish  
+Tom Henighan\*, Jared Kaplan\*, Mor Katz\*, Mark Chen, Christopher Hesse, Jacob Jackson, Heewoo Jun, Tom B Brown, **Prafulla Dhariwal**, Scott Gray, Chris Hallacy, Benjamin Mann, Alec Radford, Aditya Ramesh, Nick Ryder, Daniel M Ziegler, John Schulman, Dario Amodei, Sam McCandlish  
 </span>
 </td>
 </tr></table>
