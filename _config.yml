@@ -4,6 +4,8 @@ author: "Prafulla Dhariwal"
 email: prafullasd@gmail.com
 
 url: https://prafulladhariwal.com
+plugins:
+  - jekyll-sitemap
 
 theme: minima
 
@@ -21,13 +23,11 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
-  - _pages/publications.md
-  - _pages/media.md
-  - _pages/archive.md
 
 include:
     - _pages
     - _media
+    - _posts
 
 exclude: 
     - .gitignore
@@ -37,3 +37,14 @@ exclude:
     - LICENSE
     - README.md
 
+defaults:
+  - 
+    scope:
+      path: "_pages/publications*"
+    values:
+      sitemap: false
+  - 
+    scope:
+      path: "_pages/media*"
+    values:
+      sitemap: false

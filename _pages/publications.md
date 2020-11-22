@@ -1,7 +1,7 @@
 ## Generative Models
 <table class="publications-table"><tr>
 <td class="publications-cover">
-<img src="https://cdn.openai.com/research-covers/jukebox/2x-no-mark.jpg" alt="Jukebox: A Generative Model for Music">
+<img src="/assets/imgs/publications/jukebox-small.jpg" alt="Jukebox: A Generative Model for Music">
 </td>
 <td markdown="1">
 **[Jukebox: A Generative Model for Music](https://openai.com/blog/jukebox/)**  
@@ -30,7 +30,7 @@ Durk P Kingma\*, **Prafulla Dhariwal\***
 
 <table class="publications-table"><tr>
 <td class="publications-cover">
-<img src="assets/imgs/publications/vlae.jpeg" alt="Variational Lossy Autoencoder">
+<img src="/assets/imgs/publications/vlae.jpeg" alt="Variational Lossy Autoencoder">
 </td>
 <td markdown="1">
 **[Variational Lossy Autoencoder](https://arxiv.org/abs/1611.02731)**  
@@ -78,7 +78,7 @@ Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, **Prafulla Dhariwal**
 ## Scaling Laws
 <table class="publications-table"><tr>
 <td class="publications-cover">
-<img src="assets/imgs/publications/scaling.png" alt="Scaling Laws for Autoregressive Generative Modeling">
+<img src="/assets/imgs/publications/scaling.webp" alt="Scaling Laws for Autoregressive Generative Modeling">
 </td>
 <td markdown="1">
 **[Scaling Laws for Autoregressive Generative Modeling](https://arxiv.org/abs/2010.14701)**
@@ -93,7 +93,7 @@ Tom Henighan\*, Jared Kaplan\*, Mor Katz\*, Mark Chen, Christopher Hesse, Jacob 
 ## Theorem Proving
 <table class="publications-table"><tr>
 <td class="publications-cover">
-<img src="assets/imgs/publications/gamepad_v2.png" alt="Gamepad: A Learning Environment for Theorem Proving">
+<img src="/assets/imgs/publications/gamepad_v2.png" alt="Gamepad: A Learning Environment for Theorem Proving">
 </td>
 <td markdown="1">
 **[Gamepad: A Learning Environment for Theorem Proving](https://arxiv.org/abs/1806.00608)**
@@ -139,7 +139,7 @@ Matthias Plappert, Rein Houthooft, **Prafulla Dhariwal**, Szymon Sidor, Richard 
 
 <table class="publications-table"><tr>
 <td class="publications-cover">
-<img src="https://cdn.openai.com/research-covers/openai-baselines-dqn/2x-no-mark.jpg" alt="OpenAI Baselines">
+<img src="/assets/imgs/publications/openai-baselines-small.jpg" alt="OpenAI Baselines">
 </td>
 <td markdown="1">
 **[OpenAI Baselines](https://github.com/openai/baselines)**  
@@ -153,7 +153,7 @@ Matthias Plappert, Rein Houthooft, **Prafulla Dhariwal**, Szymon Sidor, Richard 
 ## Quantum Complexity
 <table class="publications-table"><tr>
 <td class="publications-cover">
-<img src="assets/imgs/publications/qqc.png" alt="Improved Quantum Query Complexity Bounds for Some Graph Problems">
+<img src="/assets/imgs/publications/qqc.webp" alt="Improved Quantum Query Complexity Bounds for Some Graph Problems">
 </td>
 <td markdown="1">
 **[Improved Quantum Query Complexity Bounds for Some Graph Problems](https://www.scottaaronson.com/showcase3/dhariwal-prafulla-mayar-vinay.pdf)**  
