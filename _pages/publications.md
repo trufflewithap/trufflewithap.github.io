@@ -1,6 +1,35 @@
 ## Generative Models
 <table class="publications-table"><tr>
 <td class="publications-cover">
+<div><video autoplay muted loop playsinline disableRemotePlayback style="left: 0; width: 100%; position: relative; display: block;">
+  <source src="/assets/videos/publications/diffusion-beats-gans.mp4" type="video/mp4">
+</video></div>
+</td>
+<td markdown="1">
+**[Diffusion models beat GANs on image synthesis](https://arxiv.org/abs/2105.05233)**  
+<span class="publications-content">
+[[Paper]](https://arxiv.org/abs/2105.05233) [[Code]](https://github.com/openai/guided-diffusion)  
+**Prafulla Dhariwal\***, Alex Nichol\*
+</span>
+</td>
+</tr></table>
+
+<table class="publications-table"><tr>
+<td class="publications-cover">
+<img src="/assets/imgs/publications/improved-diff.jpg" alt="Improved denoising diffusion probabilistic models">
+</td>
+<td markdown="1">
+**[Improved denoising diffusion probabilistic models](https://arxiv.org/abs/2102.09672)**  
+<span class="publications-content">
+[[Paper]](https://arxiv.org/abs/2102.09672) [[Code]](https://github.com/openai/improved-diffusion)  
+Alex Nichol\*, **Prafulla Dhariwal\***  
+*International Conference on Machine Learning (ICML), 2021*
+</span>
+</td>
+</tr></table>
+
+<table class="publications-table"><tr>
+<td class="publications-cover">
 <img src="/assets/imgs/publications/jukebox-small.jpg" alt="Jukebox: A Generative Model for Music">
 </td>
 <td markdown="1">
