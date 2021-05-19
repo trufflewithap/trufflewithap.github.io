@@ -6,7 +6,7 @@
 </video></div>
 </td>
 <td markdown="1">
-**[Diffusion models beat GANs on image synthesis](https://arxiv.org/abs/2105.05233)**  
+**[Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)**  
 <span class="publications-content">
 [[Paper]](https://arxiv.org/abs/2105.05233) [[Code]](https://github.com/openai/guided-diffusion)  
 **Prafulla Dhariwal\***, Alex Nichol\*
@@ -16,10 +16,10 @@
 
 <table class="publications-table"><tr>
 <td class="publications-cover">
-<img src="/assets/imgs/publications/improved-diff.jpg" alt="Improved denoising diffusion probabilistic models">
+<img src="/assets/imgs/publications/improved-diff.jpg" alt="Improved Denoising Diffusion Probabilistic Models">
 </td>
 <td markdown="1">
-**[Improved denoising diffusion probabilistic models](https://arxiv.org/abs/2102.09672)**  
+**[Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672)**  
 <span class="publications-content">
 [[Paper]](https://arxiv.org/abs/2102.09672) [[Code]](https://github.com/openai/improved-diffusion)  
 Alex Nichol\*, **Prafulla Dhariwal\***  
