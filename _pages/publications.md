@@ -1,6 +1,32 @@
 ## Generative Models
 <table class="publications-table"><tr>
 <td class="publications-cover">
+<img src="/assets/imgs/publications/dall-e-2.jpg" alt="DALL·E 2: Hierarchical Text-Conditional Image Generation with CLIP Latents">
+</td>
+<td markdown="1">
+**[DALL·E 2: Hierarchical Text-Conditional Image Generation with CLIP Latents](https://openai.com/dall-e-2/)**  
+<span class="publications-content">
+[[Paper]](https://cdn.openai.com/papers/dall-e-2.pdf) [[Blog]](https://openai.com/dall-e-2/)  
+Aditya Ramesh\*, **Prafulla Dhariwal\***, Alex Nichol\*, Casey Chu\*, Mark Chen
+</span>
+</td>
+</tr></table>
+
+<table class="publications-table"><tr>
+<td class="publications-cover">
+<img src="/assets/imgs/publications/glide.jpg" alt="GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models">
+</td>
+<td markdown="1">
+**[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741)**  
+<span class="publications-content">
+[[Paper]](https://arxiv.org/abs/2112.10741) [[Code]](https://github.com/openai/glide-text2im)  
+Alex Nichol\*, **Prafulla Dhariwal\***, Aditya Ramesh\*, Pranav Shyam, Pamela Mishkin, Bob McGrew, Ilya Sutskever, Mark Chen
+</span>
+</td>
+</tr></table>
+
+<table class="publications-table"><tr>
+<td class="publications-cover">
 <div><video autoplay muted loop playsinline disableRemotePlayback style="left: 0; width: 100%; position: relative; display: block;">
   <source src="/assets/videos/publications/diffusion-beats-gans.mp4" type="video/mp4">
 </video></div>
@@ -9,7 +35,8 @@
 **[Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)**  
 <span class="publications-content">
 [[Paper]](https://arxiv.org/abs/2105.05233) [[Code]](https://github.com/openai/guided-diffusion)  
-**Prafulla Dhariwal\***, Alex Nichol\*
+**Prafulla Dhariwal\***, Alex Nichol\*  
+*Neural Information Processing Systems (NeurIPS), 2021*
 </span>
 </td>
 </tr></table>
