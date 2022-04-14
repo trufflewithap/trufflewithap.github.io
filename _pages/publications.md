@@ -6,7 +6,7 @@
 <td markdown="1">
 **[DALL·E 2: Hierarchical Text-Conditional Image Generation with CLIP Latents](https://openai.com/dall-e-2/)**  
 <span class="publications-content">
-[[Paper]](https://cdn.openai.com/papers/dall-e-2.pdf) [[Blog]](https://openai.com/dall-e-2/)  
+[[Paper]](https://arxiv.org/abs/2204.06125) [[Blog]](https://openai.com/dall-e-2/)  
 Aditya Ramesh\*, **Prafulla Dhariwal\***, Alex Nichol\*, Casey Chu\*, Mark Chen
 </span>
 </td>
