@@ -1,6 +1,32 @@
 ## Generative Models
 <table class="publications-table"><tr>
 <td class="publications-cover">
+<img src="/assets/imgs/publications/consistency-models.png" alt="Consistency Models">
+</td>
+<td markdown="1">
+**[Consistency Models](https://arxiv.org/abs/2303.01469)**  
+<span class="publications-content">
+[[Paper]](https://arxiv.org/abs/2303.01469) [[Code]](https://github.com/openai/consistency_models)  
+Yang Song, **Prafulla Dhariwal**, Mark Chen, Ilya Sutskever
+</span>
+</td>
+</tr></table>
+
+<table class="publications-table"><tr>
+<td class="publications-cover">
+<img src="/assets/videos/publications/point-e.gif" alt="Point·E: A System for Generating 3D Point Clouds from Complex Prompts">
+</td>
+<td markdown="1">
+**[Point·E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)**  
+<span class="publications-content">
+[[Paper]](https://arxiv.org/abs/2212.08751) [[Code]](https://github.com/openai/point-e/)  
+Alex Nichol\*, Heewoo Jun\*, **Prafulla Dhariwal**, Pamela Mishkin, Mark Chen
+</span>
+</td>
+</tr></table>
+
+<table class="publications-table"><tr>
+<td class="publications-cover">
 <img src="/assets/imgs/publications/dall-e-2.jpg" alt="DALL·E 2: Hierarchical Text-Conditional Image Generation with CLIP Latents">
 </td>
 <td markdown="1">
