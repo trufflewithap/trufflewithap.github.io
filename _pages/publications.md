@@ -1,6 +1,32 @@
 ## Generative Models
 <table class="publications-table"><tr>
 <td class="publications-cover">
+<img src="/assets/imgs/publications/ict.png" alt="Improved techniques for training consistency models">
+</td>
+<td markdown="1">
+**[Improved techniques for training consistency models](https://arxiv.org/abs/2310.14189)**  
+<span class="publications-content">
+[[Paper]](https://arxiv.org/abs/2310.14189)  
+Yang Song, **Prafulla Dhariwal**
+</span>
+</td>
+</tr></table>
+
+<table class="publications-table"><tr>
+<td class="publications-cover">
+<img src="/assets/imgs/publications/dalle3.avif" alt="DALL·E 3: Improving image generation with better captions">
+</td>
+<td markdown="1">
+**[DALL·E 3: Improving image generation with better captions](https://openai.com/dall-e-3/)**  
+<span class="publications-content">
+[[Paper]](https://cdn.openai.com/papers/dall-e-3.pdf) [[Blog]](https://openai.com/dall-e-3/)  
+James Betker\*, Gabriel Goh\*, Li Jing\*, Tim Brooks, Jianfeng Wang, Linjie Li, Long Ouyang, Juntang Zhuang, Joyce Lee, Yufei Guo, Wesam Manassra, **Prafulla Dhariwal**, Casey Chu, Yunxin Jiao, Aditya Ramesh
+</span>
+</td>
+</tr></table>
+
+<table class="publications-table"><tr>
+<td class="publications-cover">
 <img src="/assets/imgs/publications/consistency-models.png" alt="Consistency Models">
 </td>
 <td markdown="1">
